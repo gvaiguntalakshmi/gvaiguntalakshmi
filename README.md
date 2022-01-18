@@ -6,7 +6,7 @@
 
 ### About me
 
-<p align="justify">Beginer in developing Website using HTML5, CSS3, JavaScript, Bootstrap. Expertise in making Responsive web pages using Media Queries.</p>
+<p align="justify">Beginner in developing Website using HTML5, CSS3, JavaScript, Bootstrap. Expertise in making Responsive web pages using Media Queries.</p>
 
 <br>
 <a href="https://www.linkedin.com/in/gvaiguntalakshmi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
